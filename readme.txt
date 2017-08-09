@@ -1,4 +1,2 @@
-Git is a distribted version control system
-Git is free software
-
-can not add Chinese content
+Git is a distributed version control system
+Git is free software distributed under the GPL
